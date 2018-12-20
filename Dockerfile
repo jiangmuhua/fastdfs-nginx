@@ -105,7 +105,6 @@ RUN CONFIG="\
 		--with-compat \
 		--with-file-aio \
 		--with-http_v2_module \
-
 		--add-module=/usr/src/echo-nginx-module-$ECHO_NGINX_MODULE_VERSION \
 		--add-module=/usr/src/fastdfs-nginx-module-$FASTDFS_NGINX_MODULE_VERSION/src \
 		--add-module=/usr/src/nginx-eval-module-$NGINX_EVAL_MODULE_VERSION \
