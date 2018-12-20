@@ -3,7 +3,7 @@
 ## fastdfs can not use alpine
 FROM centos:7
 
-MAINTAINER juneryo <https://github.com/juneryo/fastdfs-nginx-server>
+MAINTAINER jiangmuhua <https://github.com/jiangmuhua/fastdfs-nginx>
 
 ## fastdfs environment
 ENV FASTDFS_VERSION master
